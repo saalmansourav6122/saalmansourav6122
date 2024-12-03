@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saalman Sourav</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A professional full-stack developer from Bangladesh</h3>
 
 <div align="center">
   <img src="https://i.giphy.com/vzO0Vc8b2VBLi.webp" alt="Saalman Sourav" />
