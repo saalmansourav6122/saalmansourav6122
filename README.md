@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5af25173-b868-40c7-b5a7-2229ff725cec)<h1 align="center">Hi 👋, I'm Saalman Sourav</h1>
+<h1 align="center">Hi 👋, I'm Saalman Sourav</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <img src="https://i.giphy.com/vzO0Vc8b2VBLi.webp" alt="" />
