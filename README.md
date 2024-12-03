@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saalman Sourav</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+<div align="center">
   <img src="https://i.giphy.com/vzO0Vc8b2VBLi.webp" alt="" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saalmansourav6122&label=Profile%20views&color=0e75b6&style=flat" alt="saalmansourav6122" /> </p>
