@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saalman Sourav</h1>
-<h3 align="center">A passionate full stack from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" />
+<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media1.tenor.com/m/8S_CuT8s2_oAAAAd/bruce-almighty-comedy.gif)" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saalmansourav6122&label=Profile%20views&color=0e75b6&style=flat" alt="saalmansourav6122" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
