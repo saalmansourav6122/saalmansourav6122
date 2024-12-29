@@ -36,27 +36,20 @@
 
 ---
 
-### **Languages and Tools:**
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+## ⚡ Technologies  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat-square&logo=heroku)
+![Windows](https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows)
 
 ---
 
