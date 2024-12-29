@@ -53,15 +53,3 @@
 
 ---
 
-### **My GitHub Stats:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saalmansourav6122&show_icons=true&locale=en&layout=compact" alt="saalmansourav6122" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saalmansourav6122&show_icons=true&locale=en" alt="saalmansourav6122" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saalmansourav6122" alt="saalmansourav6122" />
-</p>
