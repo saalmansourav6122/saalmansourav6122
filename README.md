@@ -17,7 +17,9 @@
 - 📫 How to reach me: **saalmansourav111@gmail.com**
 
 ---
-
+## 🎖️ GitHub Achievements
+- 🏅 **Achievement Name 1**
+- 🏅 **Achievement Name 2**
 ### **Connect with me:**
 <p align="center">
   <a href="https://codepen.io/saalmansourav6122" target="blank">
